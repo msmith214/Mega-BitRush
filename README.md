@@ -1,0 +1,1 @@
+This collection of files is far from complete, but most other files in the game are images that serve no purpose as part of a portfolio. The rest are simple ribbon features or slightly altered versions of these classes. If you wish to see more of the game's code, you can email me at adcscrider@gmail.com
